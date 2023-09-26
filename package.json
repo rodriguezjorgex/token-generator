@@ -48,7 +48,7 @@
         "dotenv": "^8.2.0",
         "envalid": "^6.0.2",
         "eslint-config-prettier": "^8.3.0",
-        "eslint-plugin-prettier": "^4.0.0",
+        "eslint-plugin-prettier": "^4.2.1",
         "express": "^4.18.2",
         "express-jwt": "^8.3.0",
         "express-validator": "^6.6.1",
